@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sUranjan bHattacharjee
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning flutter +Node js
+- 🌱 I’m Currently 4 year experience in website Design .
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me (wa.me/+918334001120)
 
